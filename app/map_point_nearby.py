@@ -1,7 +1,7 @@
 import googlemaps
 import folium
 
-API_KEY = "AIzaSyCROdomF3aLAbAxkxX9vjvEwOBhdgTvjO4"
+API_KEY = ""
 
 input_location = input("可能な限り具体的に入力ください（入力例：日暮里駅）　：")
 input_radius = input("半径何メートルで検索しますか？（入力例：100）　：")
