@@ -1,7 +1,7 @@
 import googlemaps
 import folium
 
-API_KEY = "AIzaSyCROdomF3aLAbAxkxX9vjvEwOBhdgTvjO4"
+API_KEY = ""
 WINDOWS_DESKTOP_PATH = "/mnt/c/Users/yuwan/Desktop/"
 
 
